@@ -1,0 +1,16 @@
+Algoritmo "Temperatura Conversor"
+
+Var
+// Seção de Declarações das variáveis 
+F, C: real
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+   Escreval("Convertendo F Para C")
+
+   Leia(F)
+   C<-(F+32)*5/9
+   Escreval ("Conversor de Temperatura")
+   Escreval("A temperatura é", C)
+
+Fimalgoritmo
