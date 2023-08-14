@@ -1,0 +1,15 @@
+Algoritmo "enquanto"
+
+Var
+
+numero: inteiro
+
+Inicio
+       numero <- 1
+
+       enquanto numero<=10 faça
+            escreval ("o número atual é:", numero)
+            numero <- numero +1
+       fimenquanto
+       
+Fimalgoritmo
