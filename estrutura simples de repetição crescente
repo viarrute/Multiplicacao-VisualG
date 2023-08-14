@@ -1,0 +1,13 @@
+Algoritmo "estrutura simples de repetição crescente"
+
+Var
+
+numero: inteiro
+
+Inicio
+
+       para numero de 0 até 20 faça
+       escreval("o número é", numero)
+       fimpara
+       
+Fimalgoritmo
